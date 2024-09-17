@@ -1,31 +1,45 @@
+# Microsoft Fabric for Visual Studio Code
 
-# Contributing
+[Microsoft Fabric](https://learn.microsoft.com/fabric/) support for Visual Studio Code is provided through a rich set of extensions that make it easy to discover and interact with the Fabric items and workspaces.
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
+Sign up for [Free Microsoft Fabric Trial capacity](https://learn.microsoft.com/fabric/get-started/fabric-trial#start-the-fabric-capacity-trial) and get Microsoft Fabric is provided free of charge.  It icludes access to the Fabric product workloads and the resources to create and host Fabric items. 
 
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
+## Data engineeering
+Data engineering in Microsoft Fabric enables users to design, build, and maintain infrastructures and systems that enable their organizations to collect, store, process, and analyze large volumes of data. With this extension , you can now develop in VS Code for data engineering needs. 
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+## Features 
 
-# Legal Notices
+1. Sign in and manage login to Fabric account with VS Code accounts.
+2. Creating and open workspaces in you Fabric account.
+2. View the items in your workspace and open in Fabric, rename and edit items. You can group them by item type or view then as list. 
+3. Open and edit notebooks 
+4. Configure a working directory to save workspace items locally.
 
-Microsoft and any contributors grant you a license to the Microsoft documentation and other content
-in this repository under the [Creative Commons Attribution 4.0 International Public License](https://creativecommons.org/licenses/by/4.0/legalcode),
-see the [LICENSE](LICENSE) file, and grant you a license to any code in the repository under the [MIT License](https://opensource.org/licenses/MIT), see the
-[LICENSE-CODE](LICENSE-CODE) file.
+## Installation
 
-Microsoft, Windows, Microsoft Azure and/or other Microsoft products and services referenced in the documentation
-may be either trademarks or registered trademarks of Microsoft in the United States and/or other countries.
-The licenses for this project do not grant you rights to use any Microsoft names, logos, or trademarks.
-Microsoft's general trademark guidelines can be found at http://go.microsoft.com/fwlink/?LinkID=254653.
+Intalling the Fabric extension will install all of the extensions that you need to work with Fabric. Currently, we support Notebooks, but will be adding support for more workloads in Fabric.
 
-Privacy information can be found at https://privacy.microsoft.com/en-us/
+## Sign In
 
-Microsoft and any contributors reserve all other rights, whether under their respective copyrights, patents,
-or trademarks, whether by implication, estoppel or otherwise.
+To sign in to your Fabric account,  is simple , simply press `F1` and type in `Fabric: Sign in` (or click on the `Sign in to Fabric...` node in the Explorer).
+
+
+> Note: You may be prompted for access to your computer's secure credential storage service  so you don't need to sign in every time you start VS Code.
+
+Once signed in, `Select a Workspace` and then view the list of items in the Fabric explorer. 
+
+## Command Palette
+
+You can access almost all Azure Services provided by these extensions through the Command Palette. Simply press `F1`, then type in `Fabric` to find the available commands.
+
+
+## Have feedback
+
+Got a suggestion, use the `Feedback` section to report issues or request features. 
+
+## Telemetry 
+Read our privacy statement to learn more. If you don't wish to send usage data to Microsoft, you can set the telemetry.enableTelemetry setting to false. Learn more in our FAQ.
+
+## License
+
+[MIT](LICENSE)
