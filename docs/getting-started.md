@@ -4,21 +4,21 @@ The Fabric Workspaces extension for VS Code allows you to view, manage a Fabric 
 ## Sign in
 When you open Microsoft Fabric extension in VS Code, you will see a sign in 
 
-![image](./images/get-started-fabric-workspaces/sign-in-fabric-workspace.png)
+![image](./images/sign-in-fabric-workspace.png)
 
 ## Sign out 
 You can sign out from the extension, by selecting **Accounts** and choose the user account using Fabric extension to sign out. 
 
-![image](./images/get-started-fabric-workspaces/sign-out-fabric-workspace.png)
+![image](./images/sign-out-fabric-workspace.png)
 
 ## Create or select workspace 
 
 You can change your workspace at anytime. Currently you can only view one workspace at a given time in VS Code. 
 
-![image](./images/get-started-fabric-workspaces/Change-your-workspace.png)
+![image](./images/Change-your-workspace.png)
 
 When changing the workspace, you can select existing workspace or create a new workspace. 
-![image](./images/get-started-fabric-workspaces/select-or-create-new-workspace.png)
+![image](./images/select-or-create-new-workspace.png)
 
 
 ## Manage trusted extensions
@@ -26,15 +26,15 @@ When changing the workspace, you can select existing workspace or create a new w
 You can manage which account can use Fabric extension using **Manage trusted extension** settings in VS Code. 
 
 
-![image](./images/get-started-fabric-workspaces/manage-fabric-as-trusted-extension.png)
+![image](./images/manage-fabric-as-trusted-extension.png)
 
 You can enable and remove extension for that user account. 
 
-![image](./images/get-started-fabric-workspaces/view-trusted-extensions.png)
+![image](./images/view-trusted-extensions.png)
 
 ## Manage your workspace 
 
 You can view all the artifacts in your selected workspace in VS Code. You can rename, delete your artifacts from VS code. 
 
-![image](./images/get-started-fabric-workspaces/view-artifacts-in-vscode.png)
+![image](./images/view-artifacts-in-vscode.png)
 
