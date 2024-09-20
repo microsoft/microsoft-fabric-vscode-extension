@@ -9,8 +9,6 @@ When you open Microsoft Fabric extension in VS Code, you will see a sign in
 ## Sign out 
 You can sign out from the extension, by selecting **Accounts** and choose the user account using Fabric extension to sign out. 
 
-![image](./images/sign-out-fabric-workspace.png)
-
 ## Create or select workspace 
 
 You can change your workspace at anytime. Currently you can only view one workspace at a given time in VS Code. 
@@ -23,14 +21,7 @@ When changing the workspace, you can select existing workspace or create a new w
 
 ## Manage trusted extensions
 
-You can manage which account can use Fabric extension using **Manage trusted extension** settings in VS Code. 
-
-
-![image](./images/manage-fabric-as-trusted-extension.png)
-
-You can enable and remove extension for that user account. 
-
-![image](./images/view-trusted-extensions.png)
+You can manage which account can use Fabric extension using **Manage trusted extension** settings in VS Code when you open your account in VS Code. You can enable and remove extension for that user account as needed. 
 
 ## Manage your workspace 
 
