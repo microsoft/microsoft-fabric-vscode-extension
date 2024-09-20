@@ -32,6 +32,8 @@ Once signed in, `Select a Workspace` and then view the list of items in the Fabr
 
 You can access almost all Azure Services provided by these extensions through the Command Palette. Simply press `F1`, then type in `Fabric` to find the available commands.
 
+## Getting started 
+To get started, see [How to use Fabric extension in VS Code](docs/getting-started.md)
 
 ## Have feedback
 
